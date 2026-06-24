@@ -1,4 +1,7 @@
-# <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
+<!-- BANNER NAMA GRADASI DENGAN EFEK ANIMASI BERGERAK -->
+<p align="center">
+  <img src="https://vercel.app" alt="Elmon877 Banner" />
+</p>
 
 <p align="center">
   🆔 <b>PROFILE VIEWS:</b> 001 &nbsp;|&nbsp; 🟢 <b>STATUS:</b> ONLINE
