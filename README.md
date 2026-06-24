@@ -1,8 +1,13 @@
 # <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
 
-<p align="center">
-  <a href="https://github.com"><img src="https://demolab.com" alt="Typing SVG" /></a>
-</p>
+<!-- EFEK ANIMASI TEKS BERJALAN ASLI HTML (ANTI-BLOKIR) -->
+<h3 align="center">
+  <marquee direction="left" scrollamount="5" width="80%">
+    <span style="color: #00FFFF;">🚀 WELCOME TO MY HUB</span> &nbsp;&nbsp;•&nbsp;&nbsp; 
+    <span style="color: #FF00FF;">💻 FRONTEND DEVELOPER</span> &nbsp;&nbsp;•&nbsp;&nbsp; 
+    <span style="color: #00FF00;">🔮 TECH ENTHUSIAST & INNOVATOR</span>
+  </marquee>
+</h3>
 
 <p align="center">
   🆔 <b>PROFILE VIEWS:</b> 001 &nbsp;|&nbsp; 🟢 <b>STATUS:</b> ONLINE
