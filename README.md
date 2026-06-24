@@ -1,11 +1,11 @@
-# <p align="center">🔮 ELMON877 🔮</p>
+<p align="center">
+  <img src="https://vercel.app" alt="Banner Elmon" />
+</p>
 
-<!-- BANNER GAMBAR TULISAN ANIMASI BERGERAK -->
 <p align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
-<!-- BADGE STATISTIK WARNA-WARNI -->
 <p align="center">
   <img src="https://shields.io" alt="Views" />
   <img src="https://shields.io" alt="Followers" />
