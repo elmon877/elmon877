@@ -1,6 +1,8 @@
-<!-- BANNER GELOMBANG GRADASI BERGERAK (MOHON NYALAKAN WIRE VPN UNTUK MELIHATNYA) -->
+# <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
+
+<!-- GAMBAR BANNER KODE RESMI GITHUB (100% ANTI-BLOKIR & DIJAMIN MUNCUL) -->
 <p align="center">
-  <img src="https://vercel.app" alt="Elmon877 Banner" />
+  <img src="https://vercel.app" alt="Elmon877 Stats" />
 </p>
 
 <p align="center">
