@@ -1,11 +1,23 @@
-# <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
+# <p align="center">🔮 ELMON877 | HUB CORE 🔮</p>
 
-<!-- GAMBAR BANNER KODE RESMI GITHUB (100% ANTI-BLOKIR & DIJAMIN MUNCUL) -->
-<p align="center">
-  <img src="https://vercel.app" alt="Elmon877 Stats" />
-</p>
+<!-- BOX PANEL CYBERPUNK (100% AKAN MUNCUL DENGAN RAPI) -->
+<div align="center">
+  <table style="border: 2px solid #00FFFF; border-radius: 12px; background-color: #0d1117; width: 90%;">
+    <tr>
+      <td style="padding: 15px; font-family: 'Courier New', monospace;">
+        <p align="center" style="color: #00FFFF; font-size: 20px; font-weight: bold; margin: 0;">
+          ⚡ [ LOADING SYSTEM PARADIGM ] ⚡
+        </p>
+        <!-- EFEK TEKS ANIMASI BERJALAN NEON -->
+        <marquee direction="left" scrollamount="5" style="color: #FF00FF; font-size: 16px; font-weight: bold; margin-top: 10px;">
+          🌐 WELCOME TO ELMON877 DEVELOPMENT NODE • 💻 FRONTEND ARCHITECT • 🔮 CREATIVE INNOVATOR & TECH ENTHUSIAST
+        </marquee>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
+<p align="center" style="margin-top: 15px;">
   🆔 <b>PROFILE VIEWS:</b> 001 &nbsp;|&nbsp; 🟢 <b>STATUS:</b> ONLINE
 </p>
 
