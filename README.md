@@ -1,6 +1,7 @@
-<!-- BANNER NAMA GRADASI DENGAN EFEK ANIMASI BERGERAK -->
+# <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
+
 <p align="center">
-  <img src="https://vercel.app" alt="Elmon877 Banner" />
+  <a href="https://github.com"><img src="https://demolab.com" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
