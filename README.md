@@ -1,8 +1,7 @@
 # <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Views">
-  <img src="https://shields.io" alt="Status">
+  🆔 <b>PROFILE VIEWS:</b> 001 &nbsp;|&nbsp; 🟢 <b>STATUS:</b> ONLINE
 </p>
 
 > ### 🟢 SYSTEM STATUS: ACTIVE
