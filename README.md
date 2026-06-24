@@ -1,23 +1,30 @@
 # <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
 
-> ### 🟢 SYSTEM STATUS: ONLINE
+<p align="center">
+  <img src="https://shields.io" alt="Views">
+  <img src="https://shields.io" alt="Status">
+</p>
+
+> ### 🟢 SYSTEM STATUS: ACTIVE
 > _"Building intelligent digital systems beyond imagination."_
 
 ---
 
-### 🟢 ⟨ SYSTEM PROFILE :: IDENTITY CORE ⟩
+### 🔮 ⟨ SYSTEM PROFILE :: IDENTITY CORE ⟩
 ```text
+ ┌────────────────────────────────────────────────────────┐
  │ USER    : ELMON877                                     │
  │ STATUS  : [ ACTIVE ] – Building the Future             │
  │ VERSION : 2026.∞                                       │
- ──────────────────────────────────────────────────────────
+ ├────────────────────────────────────────────────────────┤
  │ ROLES   :                                              │
- │  ├── Frontend Developer (HTML • CSS • JS)          │
- │  └── Tech Enthusiast & Creative Innovator         │
- ──────────────────────────────────────────────────────────
+ │  ├── Frontend Developer (HTML • CSS • JS)              │
+ │  └── Tech Enthusiast & Creative Innovator              │
+ ├────────────────────────────────────────────────────────┤
  │ FOCUS   :                                              │
  │  ├── Responsive Web Design                             │
  │  └── E-Commerce Platform Development                   │
+ └────────────────────────────────────────────────────────┘
 ```
 
 ### 🛠️ Tech Stack & Powers
