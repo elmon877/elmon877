@@ -1,13 +1,7 @@
-# <p align="center">🔮 ELMON877 | DEVELOPMENT HUB 🔮</p>
-
-<!-- EFEK ANIMASI TEKS BERJALAN NEON (100% ANTI-BLOKIR & LANGSUNG MUNCUL) -->
-<h3 align="center">
-  <marquee direction="left" scrollamount="6" width="90%" style="border: 2px solid #00FFFF; padding: 10px; border-radius: 10px; background-color: #0d1117;">
-    <span style="color: #00FFFF; font-weight: bold; font-family: 'Courier New', monospace;">🚀 WELCOME TO ELMON877 HUB</span> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp; 
-    <span style="color: #FF00FF; font-weight: bold; font-family: 'Courier New', monospace;">💻 FRONTEND DEVELOPER</span> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp; 
-    <span style="color: #00FF00; font-weight: bold; font-family: 'Courier New', monospace;">🔮 CREATIVE INNOVATOR & TECH ENTHUSIAST</span>
-  </marquee>
-</h3>
+<!-- BANNER GELOMBANG GRADASI BERGERAK (MOHON NYALAKAN WIRE VPN UNTUK MELIHATNYA) -->
+<p align="center">
+  <img src="https://vercel.app" alt="Elmon877 Banner" />
+</p>
 
 <p align="center">
   🆔 <b>PROFILE VIEWS:</b> 001 &nbsp;|&nbsp; 🟢 <b>STATUS:</b> ONLINE
