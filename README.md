@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="https://vercel.app" alt="Banner Elmon" />
+  <img src="https://github.com" alt="Banner Elmon" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://shields.io" alt="Views" />
-  <img src="https://shields.io" alt="Followers" />
-  <img src="https://shields.io" alt="Status" />
+<p align="center" style="color: #00F3FF; font-size: 20px; font-weight: bold;">
+  🔮 ELMON877 | FRONTEND DEVELOPER 🔮
 </p>
 
 <p align="center" style="color: #FF00FF; font-weight: bold;">
