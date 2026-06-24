@@ -1,16 +1,34 @@
-## Hi there 👋
+# <p align="center">🔮 ELMON877 🔮</p>
 
-<!--
-**elmon877/elmon877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BANNER GAMBAR TULISAN ANIMASI BERGERAK -->
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<!-- BADGE STATISTIK WARNA-WARNI -->
+<p align="center">
+  <img src="https://shields.io" alt="Views" />
+  <img src="https://shields.io" alt="Followers" />
+  <img src="https://shields.io" alt="Status" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="color: #FF00FF; font-weight: bold;">
+  " Building intelligent digital systems beyond imagination. "
+</p>
+
+---
+
+### ⟨ SYSTEM PROFILE :: IDENTITY CORE ⟩
+```text
+ │ USER    : ELMON877                                     │
+ │ STATUS  : [ ACTIVE ] – Building the Future             │
+ │ VERSION : 2026.∞                                       │
+ ──────────────────────────────────────────────────────────
+ │ ROLES   :                                              │
+ │  ├── Frontend Developer (HTML • CSS • JS)          │
+ │  └── Tech Enthusiast & Creative Innovator         │
+ ──────────────────────────────────────────────────────────
+ │ FOCUS   :                                              │
+ │  ├── Responsive Web Design                             │
+ │  └── E-Commerce Platform Development                   │
+```
