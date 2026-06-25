@@ -50,3 +50,12 @@
 
 ---
 <p align="center">⚡ Powered by Elmon877 Core v2026 ⚡</p>
+
+
+
+push git
+
+git init
+git add .
+git commit -m hi
+git push origin main
